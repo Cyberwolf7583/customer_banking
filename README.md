@@ -12,4 +12,5 @@ I also used samples for my code from the class activities in module Three:
 
 I wrote my code in the customer banking file and it is to be ran in it as well: 
 
-I have a screenshot of the code I ran. It is in the screenshot folder:
+I have a screenshot of the code I ran. It is in the  readme file:
+[text](<ScreenShot working code>)
