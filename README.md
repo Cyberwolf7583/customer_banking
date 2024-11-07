@@ -12,5 +12,9 @@ I also used samples for my code from the class activities in module Three:
 
 I wrote my code in the customer banking file and it is to be ran in it as well: 
 
-I have a screenshot of the code I ran. It is in the  readme file however the screenshot isnt being loaded correctly: 
-[text](<ScreenShot working code>)
+### I have a screenshot of the code I ran. It is in the images folder also here in the readme file with following the link below: ###
+
+![Screenshot of Working Code](images/Main%20Screen%20Shot%20for%20cutstomer%20bank%20repo.png)
+
+
+
